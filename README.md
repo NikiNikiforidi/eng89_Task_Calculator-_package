@@ -8,10 +8,10 @@
 - -----------------------------------------------------
 - Begin by creating new app directory and add `__init__.py` file and `calculator.py` file
 - In normal folder create `program.py` file and `setup.py` file
-**__init__.py**
+**__init__.py** In app directory
   `empty`
   
-**calculator.py**
+**calculator.py** In app directory
 
 ```
 import math    # Import math package to use pi
